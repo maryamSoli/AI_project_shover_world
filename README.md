@@ -6,6 +6,6 @@ ShoverWorld is a 2D grid environment where a Shover navigates through a world co
   ### Phase 2: 
   Development of an AI agent using A* search algorithm to solve challenging puzzle configurations.
 
-![Alt Text](images/Screenshot (958).png.png)
+![Alt Text](images/Screenshot.png)
 
 
